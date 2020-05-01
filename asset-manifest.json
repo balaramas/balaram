@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/balaram/static/css/main.a7911cec.chunk.css",
+    "main.css": "/balaram/static/css/main.95616b30.chunk.css",
     "main.js": "/balaram/static/js/main.ff55272f.chunk.js",
     "main.js.map": "/balaram/static/js/main.ff55272f.chunk.js.map",
     "runtime-main.js": "/balaram/static/js/runtime-main.7deda5f7.js",
@@ -9,10 +9,10 @@
     "static/js/2.7eddcaa7.chunk.js": "/balaram/static/js/2.7eddcaa7.chunk.js",
     "static/js/2.7eddcaa7.chunk.js.map": "/balaram/static/js/2.7eddcaa7.chunk.js.map",
     "index.html": "/balaram/index.html",
-    "precache-manifest.f2d2bb2be0c9318edb223d8ce6c1f326.js": "/balaram/precache-manifest.f2d2bb2be0c9318edb223d8ce6c1f326.js",
+    "precache-manifest.870104ad23c50b36f292013f30aa85ab.js": "/balaram/precache-manifest.870104ad23c50b36f292013f30aa85ab.js",
     "service-worker.js": "/balaram/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/balaram/static/css/2.69121389.chunk.css.map",
-    "static/css/main.a7911cec.chunk.css.map": "/balaram/static/css/main.a7911cec.chunk.css.map",
+    "static/css/main.95616b30.chunk.css.map": "/balaram/static/css/main.95616b30.chunk.css.map",
     "static/js/2.7eddcaa7.chunk.js.LICENSE.txt": "/balaram/static/js/2.7eddcaa7.chunk.js.LICENSE.txt",
     "static/media/bstyle.css": "/balaram/static/media/pagani.a1033b46.jpg",
     "static/media/ima.jpg": "/balaram/static/media/ima.be32d802.jpg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.7deda5f7.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.7eddcaa7.chunk.js",
-    "static/css/main.a7911cec.chunk.css",
+    "static/css/main.95616b30.chunk.css",
     "static/js/main.ff55272f.chunk.js"
   ]
 }
