@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/balaram/static/css/main.95616b30.chunk.css",
-    "main.js": "/balaram/static/js/main.98892846.chunk.js",
-    "main.js.map": "/balaram/static/js/main.98892846.chunk.js.map",
+    "main.js": "/balaram/static/js/main.70759ddc.chunk.js",
+    "main.js.map": "/balaram/static/js/main.70759ddc.chunk.js.map",
     "runtime-main.js": "/balaram/static/js/runtime-main.7deda5f7.js",
     "runtime-main.js.map": "/balaram/static/js/runtime-main.7deda5f7.js.map",
     "static/css/2.69121389.chunk.css": "/balaram/static/css/2.69121389.chunk.css",
     "static/js/2.7eddcaa7.chunk.js": "/balaram/static/js/2.7eddcaa7.chunk.js",
     "static/js/2.7eddcaa7.chunk.js.map": "/balaram/static/js/2.7eddcaa7.chunk.js.map",
     "index.html": "/balaram/index.html",
-    "precache-manifest.601ca5b6a49ed8ec821e000d762499ca.js": "/balaram/precache-manifest.601ca5b6a49ed8ec821e000d762499ca.js",
+    "precache-manifest.23f4e31bdcb2b082281f0c8eb3e8c99c.js": "/balaram/precache-manifest.23f4e31bdcb2b082281f0c8eb3e8c99c.js",
     "service-worker.js": "/balaram/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/balaram/static/css/2.69121389.chunk.css.map",
     "static/css/main.95616b30.chunk.css.map": "/balaram/static/css/main.95616b30.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.7eddcaa7.chunk.js",
     "static/css/main.95616b30.chunk.css",
-    "static/js/main.98892846.chunk.js"
+    "static/js/main.70759ddc.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e9162b4dffca235f1a4a1064259b6eb",
+    "revision": "d86b604209107d82dacc039a132ece6d",
     "url": "/balaram/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/balaram/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "3bd9f003c71d5dd9e61f",
+    "revision": "37b049905d4281a8c986",
     "url": "/balaram/static/css/main.95616b30.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/balaram/static/js/2.7eddcaa7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3bd9f003c71d5dd9e61f",
-    "url": "/balaram/static/js/main.98892846.chunk.js"
+    "revision": "37b049905d4281a8c986",
+    "url": "/balaram/static/js/main.70759ddc.chunk.js"
   },
   {
     "revision": "201ba98f3ca576992317",
